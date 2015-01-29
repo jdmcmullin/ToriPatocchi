@@ -1,0 +1,13 @@
+
+/*** media queries ***/
+
+@media screen and (max-width : 976px) {
+    #gallery li {
+        margin: .4% .5% .4% 26%;
+    }
+    
+    #anchor1 {
+        margin-left: 50%;
+    }
+}
+
